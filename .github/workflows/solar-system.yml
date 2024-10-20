@@ -33,5 +33,6 @@ jobs:
         - name: Archive Test Result
           uses: actions/upload-artifact@v3
           with:
+            if: failure()
             name: Mocha-Test-Result
             path: test-results.xml
