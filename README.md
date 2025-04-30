@@ -47,3 +47,5 @@ If the installation was successful, you should be able to run the following comm
 ## Access Application on Browser
     http://localhost:3000/
 
+[![Testing - Reusable Workflow](https://github.com/swateemadhusmita/github-actions-solar-system/actions/workflows/reusable-workflow.yml/badge.svg)](https://github.com/swateemadhusmita/github-actions-solar-system/actions/workflows/reusable-workflow.yml)
+
